@@ -1,0 +1,20 @@
+.btn-track-play, .btn-track-pause {
+	margin-right: 10px;
+}
+
+.info-artist {
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.info-title {
+	margin-bottom: 0px;
+}
+
+.info-panel {
+	display: none;
+}
+
+.selected-track {
+	background-color: #dff0d8;
+}
